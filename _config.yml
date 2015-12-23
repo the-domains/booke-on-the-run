@@ -1,0 +1,28 @@
+name: Booke on the run
+favicon: null
+layout_spectrum: 0.3846763833425939
+typography_spectrum: 0.15877343225292861
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.26945063518360257
+  lightness: 0.5158630947116762
+  saturation: 0.2731073491740972
+  rhythmicContrast: 0.533154187258333
+purpose: []
